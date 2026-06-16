@@ -1,4 +1,4 @@
-# Aegis AI & Digital Risk Website v1.7 Executive Consulting Polish
+# Aegis AI & Digital Risk Website v1.8 Content Polish
 
 This is a static, multi-page website package for editing in Visual Studio Code and deploying through GitHub + Vercel, GitHub Pages, Netlify, or GoDaddy hosting/cPanel.
 
@@ -87,3 +87,8 @@ Use this v1.7 package as the source going forward. Earlier packages v1.2–v1.5 
 - Enlarged and tightened the horizontal Aegis lockup for the header and footer.
 - Kept the icon mark for favicon and supporting brand use only.
 - Tuned CTA sizing, card shadows, and section spacing for a more professional consulting-company presentation.
+
+
+## v1.8 Updates
+- Simplified the Why Aegis section for clearer website copy.
+- Updated Founder-Led Expertise bios for Mahary Araia and Colin Caleb, Esq.
