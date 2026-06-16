@@ -1,4 +1,4 @@
-# Aegis AI & Digital Risk Website v1.8 Content Polish
+# Aegis AI & Digital Risk Website v1.9 Content Polish
 
 This is a static, multi-page website package for editing in Visual Studio Code and deploying through GitHub + Vercel, GitHub Pages, Netlify, or GoDaddy hosting/cPanel.
 
@@ -68,7 +68,7 @@ This package includes the uploaded `favicon.ico` at the website root and in `ass
 All HTML pages reference `/favicon.ico` first, with `assets/favicon.png` retained as a fallback.
 
 
-## v1.7 Logo Asset Update
+## v1.9 Logo Asset Update
 This package uses the full logo set uploaded after v1.5:
 
 - `assets/aegis-logo-nav.png` — horizontal Aegis lockup used in the site header.
@@ -78,10 +78,10 @@ This package uses the full logo set uploaded after v1.5:
 - `favicon.ico` and `assets/favicon.ico` — browser favicon.
 - `assets/logo-library/` — original uploaded logo files kept for reference.
 
-Use this v1.7 package as the source going forward. Earlier packages v1.2–v1.5 should be treated as archived drafts.
+Use this v1.9 package as the source going forward. Earlier packages v1.2–v1.5 should be treated as archived drafts.
 
 
-## v1.7 Executive consulting polish
+## v1.9 Executive consulting polish
 - Reduced oversized heading scale for a more executive advisory feel.
 - Reduced hero height and visual glow intensity.
 - Enlarged and tightened the horizontal Aegis lockup for the header and footer.
@@ -89,6 +89,6 @@ Use this v1.7 package as the source going forward. Earlier packages v1.2–v1.5 
 - Tuned CTA sizing, card shadows, and section spacing for a more professional consulting-company presentation.
 
 
-## v1.8 Updates
+## v1.9 Updates
 - Simplified the Why Aegis section for clearer website copy.
 - Updated Founder-Led Expertise bios for Mahary Araia and Colin Caleb, Esq.
