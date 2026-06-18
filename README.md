@@ -92,3 +92,6 @@ Use this v1.9 package as the source going forward. Earlier packages v1.2–v1.5 
 ## v1.9 Updates
 - Simplified the Why Aegis section for clearer website copy.
 - Updated Founder-Led Expertise bios for Mahary Araia and Colin Caleb, Esq.
+
+
+LinkedIn Company Page: https://www.linkedin.com/company/aegis-ai-digital-risk/
